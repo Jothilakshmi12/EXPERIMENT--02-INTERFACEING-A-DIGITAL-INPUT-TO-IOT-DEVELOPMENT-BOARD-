@@ -193,8 +193,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- 
- 
+![IOT EX2 OFF](https://github.com/22008837/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/120194155/4a173e1f-0262-4c35-a02c-b1eeccf8f239) 
+![iot ex2](https://github.com/22008837/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/120194155/20bf3fc0-8983-4a50-ac8f-d0400a0a3fd8) 
  
  
 ## Result :
